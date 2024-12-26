@@ -110,5 +110,5 @@ if __name__ == "__main__":
             webbrowser.open(f"https://www.google.com/search?q={topic_query} education")
 
         elif 'stop' in query:
-            speak("Goodbye!")
+            speak("Bye!See u again")
             break  
